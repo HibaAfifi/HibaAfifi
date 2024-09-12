@@ -36,4 +36,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
 
-### https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
